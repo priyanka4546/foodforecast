@@ -1,0 +1,24 @@
+{
+  "name": "foodforecast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanka4546/foodforecast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/priyanka4546/foodforecast/issues"
+  },
+  "homepage": "https://github.com/priyanka4546/foodforecast#readme",
+  "dependencies": {
+    "firebase": "^11.7.1"
+  }
+}
